@@ -1,4 +1,4 @@
-class Cgal < Formula
+class Cgal562 < Formula
   desc "Computational Geometry Algorithms Library"
   homepage "https://www.cgal.org/"
   url "https://github.com/CGAL/cgal/releases/download/v5.6.1/CGAL-5.6.1.tar.xz"
