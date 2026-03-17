@@ -1,4 +1,4 @@
-class Cgal411 < Formula
+class Cgal@4.1.1 < Formula
   desc "Computational Geometry Algorithm Library"
   homepage "https://www.cgal.org/"
   url "https://github.com/CGAL/cgal/releases/download/releases/CGAL-4.11.1/CGAL-4.11.1.tar.xz"
